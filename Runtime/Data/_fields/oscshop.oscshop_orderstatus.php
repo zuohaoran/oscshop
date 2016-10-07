@@ -1,0 +1,1 @@
+a:4:{i:0;s:15:"order_status_id";i:1;s:4:"name";s:3:"_pk";s:15:"order_status_id";s:5:"_type";a:2:{s:15:"order_status_id";s:7:"int(11)";s:4:"name";s:11:"varchar(32)";}}

@@ -1,0 +1,1 @@
+a:8:{i:0;s:16:"order_history_id";i:1;s:8:"order_id";i:2;s:15:"order_status_id";i:3;s:6:"notify";i:4;s:7:"comment";i:5;s:10:"date_added";s:3:"_pk";s:16:"order_history_id";s:5:"_type";a:6:{s:16:"order_history_id";s:7:"int(11)";s:8:"order_id";s:7:"int(11)";s:15:"order_status_id";s:6:"int(5)";s:6:"notify";s:10:"tinyint(1)";s:7:"comment";s:4:"text";s:10:"date_added";s:7:"int(11)";}}

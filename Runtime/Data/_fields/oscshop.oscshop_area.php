@@ -1,0 +1,1 @@
+a:7:{i:0;s:7:"area_id";i:1;s:9:"area_name";i:2;s:14:"area_parent_id";i:3;s:9:"area_sort";i:4;s:9:"area_deep";s:3:"_pk";s:7:"area_id";s:5:"_type";a:5:{s:7:"area_id";s:16:"int(11) unsigned";s:9:"area_name";s:11:"varchar(50)";s:14:"area_parent_id";s:16:"int(11) unsigned";s:9:"area_sort";s:19:"tinyint(3) unsigned";s:9:"area_deep";s:19:"tinyint(1) unsigned";}}

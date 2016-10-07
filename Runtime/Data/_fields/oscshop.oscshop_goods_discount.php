@@ -1,0 +1,1 @@
+a:6:{i:0;s:19:"product_discount_id";i:1;s:8:"goods_id";i:2;s:8:"quantity";i:3;s:5:"price";s:3:"_pk";s:19:"product_discount_id";s:5:"_type";a:4:{s:19:"product_discount_id";s:7:"int(11)";s:8:"goods_id";s:7:"int(11)";s:8:"quantity";s:6:"int(4)";s:5:"price";s:13:"decimal(15,2)";}}

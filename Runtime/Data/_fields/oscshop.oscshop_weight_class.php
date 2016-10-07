@@ -1,0 +1,1 @@
+a:6:{i:0;s:15:"weight_class_id";i:1;s:5:"value";i:2;s:5:"title";i:3;s:4:"unit";s:3:"_pk";s:15:"weight_class_id";s:5:"_type";a:4:{s:15:"weight_class_id";s:7:"int(11)";s:5:"value";s:13:"decimal(15,8)";s:5:"title";s:11:"varchar(32)";s:4:"unit";s:10:"varchar(4)";}}

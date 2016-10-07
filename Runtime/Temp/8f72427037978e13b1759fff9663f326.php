@@ -1,0 +1,3 @@
+<?php
+//000000000000a:5:{i:0;a:5:{s:2:"id";s:10:"45r7pz1mep";s:3:"pid";s:1:"0";s:5:"title";s:9:"天目釉";s:10:"sort_order";s:1:"1";s:8:"children";a:1:{i:0;a:4:{s:2:"id";s:10:"lrw95p14g2";s:3:"pid";s:1:"1";s:5:"title";s:12:"油滴天目";s:10:"sort_order";s:1:"1";}}}i:1;a:4:{s:2:"id";s:10:"2wp9j01kqn";s:3:"pid";s:1:"0";s:5:"title";s:9:"结晶釉";s:10:"sort_order";s:1:"2";}i:2;a:4:{s:2:"id";s:10:"egm90r95qw";s:3:"pid";s:1:"0";s:5:"title";s:6:"铁釉";s:10:"sort_order";s:1:"3";}i:3;a:4:{s:2:"id";s:10:"wj01m67gvd";s:3:"pid";s:1:"0";s:5:"title";s:6:"铜釉";s:10:"sort_order";s:1:"4";}i:4;a:4:{s:2:"id";s:10:"d639gn7ymg";s:3:"pid";s:1:"0";s:5:"title";s:9:"艺品瓷";s:10:"sort_order";s:1:"5";}}
+?>
